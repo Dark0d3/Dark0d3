@@ -38,15 +38,3 @@ src="https://img.shields.io/github/followers/Dark0d3?logo=github&style=for-the-b
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Fubuki Shirou#1773" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Dark0d3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/muhammedzaidafreed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/afreedcp178" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Afreedcp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/Dark0d3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark0d3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Dark0d3/Rasam-2020-site" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark0d3&repo=Rasam-2020-site&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Dark0d3/Project-42" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark0d3&repo=Project-42&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Dark0d3/New_World" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark0d3&repo=New_World&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Dark0d3/Sun-Moon-Earth" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark0d3&repo=Sun-Moon-Earth&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
