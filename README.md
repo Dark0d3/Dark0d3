@@ -1,4 +1,4 @@
-Hi 👋 My name is Afreed C P
+Hi 👋 My name is Afreed
 ===========================
 
 Indie Game Dev | Web Dev
