@@ -1,7 +1,7 @@
 Hi 👋 I am Afreed
 ===========================
 
-Indie Game Dev | Web Dev
+Software Engineer | Web Dev | .Net core | C# | Umbraco | VueJS | .Net Framework
 ------------------------
 
 * 🌍  I'm based in Kerala/India
