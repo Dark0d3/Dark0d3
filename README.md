@@ -6,7 +6,6 @@ Software Engineer | Web Dev | .Net core | C# | Umbraco | VueJS | .Net Framework
 
 * 🌍  I'm based in Kerala/India
 * ✉️  You can contact me at [afreed178@gmail.com](mailto:afreed178@gmail.com)
-* 🧠  I'm learning Unreal Engine
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.twitter.com/Afreedcp" target="_blank" rel="noreferrer"><img
